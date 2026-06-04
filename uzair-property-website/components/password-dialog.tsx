@@ -57,7 +57,7 @@ export function PasswordDialog({ isOpen, onClose, onSuccess }: PasswordDialogPro
             <Lock className="h-8 w-8 text-blue-600" />
           </div>
           <CardTitle className="text-xl">Admin Access Required</CardTitle>
-          <CardDescription>Please enter the admin password to access the property management panel.</CardDescription>
+          <CardDescription>Please enter the ADMIN PASS to access the property management panel.</CardDescription>    
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className="space-y-4">
