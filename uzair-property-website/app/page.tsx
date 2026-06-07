@@ -380,7 +380,7 @@ export default function UzairPropertyWebsite() {
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
             <div className="text-center lg:text-left">
               <Badge className="mb-4 bg-blue-100 text-blue-800 hover:bg-blue-200 text-xs sm:text-sm">
-                Trusted Property Developers
+                Trusted Property Developers & Realtors
               </Badge>
               <h1 className="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold text-gray-900 mb-4 sm:mb-6">
                 Building Your
