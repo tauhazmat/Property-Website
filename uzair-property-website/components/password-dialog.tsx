@@ -99,7 +99,7 @@ export function PasswordDialog({ isOpen, onClose, onSuccess }: PasswordDialogPro
 
           <div className="mt-4 p-3 bg-gray-50 rounded-lg">
             <p className="text-xs text-gray-600 text-center">
-              🔒 This area is protected. Only authorized personnel can access the property management system.
+              🔒 This area is protected. Only authorized ADMIN(s) can access the property management system.
             </p>
           </div>
         </CardContent>
